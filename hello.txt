@@ -6,3 +6,4 @@ hello GIT!
 
 This is hot-fix branch update!
 main test!
+hot-fix test update!
