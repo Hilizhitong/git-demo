@@ -3,3 +3,5 @@ sdfasdf
 hello git!
 hello git!
 hello git!
+
+This is hot-fix branch update!
