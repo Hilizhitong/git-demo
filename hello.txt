@@ -1,7 +1,7 @@
 hello git!
 sdfasdf
 hello git!
-hello git!
-hello git!
+hello git!!!
+hello GIT!
 
 This is hot-fix branch update!
